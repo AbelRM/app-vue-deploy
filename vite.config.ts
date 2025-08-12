@@ -4,5 +4,5 @@ import vue from '@vitejs/plugin-vue'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: 'https://github.com/AbelRM/app-vue-deploy'
+  base: 'https://AbelRM.github.io/app-vue-deploy'
 })
